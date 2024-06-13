@@ -18,7 +18,7 @@ class PessoaJuridica < Pessoa # herança
     attr_accessor :cnpj
 
     def pagar_fornecedor
-        puts "Pagando fornecedor..."
+        "Pagando fornecedor..."
     end
 end
 
