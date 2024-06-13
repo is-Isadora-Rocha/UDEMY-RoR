@@ -13,3 +13,5 @@ irb(main):003> NOME = "Spring"
 => "Spring"
 
 =end
+
+puts "SUBINO ONIBUS..".reverse # => ..SUBINO ONIBUS
