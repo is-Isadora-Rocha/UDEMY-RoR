@@ -1,4 +1,7 @@
 # Em um hash você determina qual é a "chave" para acessar o valor
+
+# INFORMAR A CHAVE E O VALOR DE CADA ITEM 
+
 # https://www.theodinproject.com/lessons/ruby-hashes
 
 h = { 'a' => 'Isadora', 'r' => 'Rails' }
