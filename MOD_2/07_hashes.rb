@@ -20,3 +20,24 @@ shoes = {
 }
 
 puts shoes['summer'] #=> "sandals"
+
+# SIMBOLOS COM CHAVE HASH
+
+# :this_guy usados como chaves  Isso ocorre predominantemente porque
+# os símbolos têm muito melhor desempenho do que strings em Ruby, mas também permitem uma sintaxe muito mais limpa ao definir hashes.
+
+# 'Rocket' syntax
+american_cars = {
+  chevrolet: 'Corvette',
+  ford: 'Mustang',
+  dodge: 'Ram'
+}
+# 'Symbols' syntax
+japanese_cars = {
+  honda: 'Accord',
+  toyota: 'Corolla',
+  nissan: 'Altima'
+}
+
+puts american_cars[:ford]    #=> "Mustang"
+puts japanese_cars[:honda]   #=> "Accord"
