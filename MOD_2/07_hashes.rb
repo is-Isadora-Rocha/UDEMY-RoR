@@ -25,6 +25,7 @@ puts shoes['summer'] #=> "sandals"
 
 # :this_guy usados como chaves  Isso ocorre predominantemente porque
 # os símbolos têm muito melhor desempenho do que strings em Ruby, mas também permitem uma sintaxe muito mais limpa ao definir hashes.
+# abordado melhor no 09_symbols.rb
 
 # 'Rocket' syntax
 american_cars = {
