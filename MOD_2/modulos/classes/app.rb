@@ -1,6 +1,5 @@
 require_relative 'pagamento'
-
-# include Pagamento
+include Pagamento
 # p = Visa.new
 # puts p.pagando
 
