@@ -19,3 +19,7 @@ irb(main):002> `CpfUtils.cpf`
 irb(main):003> `CpfUtils.cpf_formatado`
 => "368.279.054-38"
 irb(main):004> 
+
+### O QUE SÃO DEPENDÊNCIAS?
+
+Algumas gems precisam de outras gems para funcionar corretamente. 
