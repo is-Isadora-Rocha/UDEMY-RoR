@@ -23,3 +23,7 @@ irb(main):004>
 ### O QUE SÃO DEPENDÊNCIAS?
 
 Algumas gems precisam de outras gems para funcionar corretamente. 
+
+### Geralmente quando vamos usar uma gem 
+usa-se o `require` para carregar a biblioteca. 
+
