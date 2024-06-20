@@ -15,3 +15,7 @@ puts :ruby.object_id # => 997468
 
 h = { :curso => "Rails"}
 h = { curso: "Rails "}
+
+#####################################################################
+
+# MODELOS DETALHADOS DENTRO DA PASTA SYMBOLS
